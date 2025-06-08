@@ -130,4 +130,3 @@ Extend grammar to support unary minus
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/0fe2c50c-ec61-4b8f-9f7f-53a153a7d12e)
